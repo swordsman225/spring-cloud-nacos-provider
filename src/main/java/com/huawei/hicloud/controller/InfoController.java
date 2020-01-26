@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@RequestMapping(value = "/v1")
+@RequestMapping(value = "/v1.0")
 @RefreshScope
 public class InfoController {
 
